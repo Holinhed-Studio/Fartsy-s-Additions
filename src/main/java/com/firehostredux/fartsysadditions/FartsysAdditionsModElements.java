@@ -46,6 +46,8 @@ public class FartsysAdditionsModElements {
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 
 	public FartsysAdditionsModElements() {
+		sounds.put(new ResourceLocation("fartsys_additions", "emone"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "emone")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("fartsys_additions").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

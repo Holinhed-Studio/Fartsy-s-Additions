@@ -1,13 +1,14 @@
 {
   "item.fartsys_additions.one_million_sharts": "One Million Sharts",
-  "itemGroup.tabstinky_things": "Stinky Things",
-  "item.fartsys_additions.ten_sharts": "Ten Sharts",
   "item.fartsys_additions.one_hundred_thousand_sharts": "One Hundred Thousand Sharts",
-  "death.attack.selfdesharted.player": "%s ded",
-  "item.fartsys_additions.one_shart": "One Shart",
+  "item.fartsys_additions.ten_sharts": "Ten Sharts",
+  "subtitles.emone": "Somebody just self-desharted!",
   "death.attack.selfdesharted": "%1$s self-desharted!",
   "item.fartsys_additions.one_hundred_sharts": "One Hundred Sharts",
   "item.fartsys_additions.ten_thousand_sharts": "Ten Thousand Sharts",
   "item.fartsys_additions.one_thousand_sharts": "One Thousand Sharts",
-  "item.fartsys_additions.ten_million_sharts": "Ten Million Sharts"
+  "item.fartsys_additions.ten_million_sharts": "Ten Million Sharts",
+  "itemGroup.tabstinky_things": "Stinky Things",
+  "death.attack.selfdesharted.player": "%s ded",
+  "item.fartsys_additions.one_shart": "One Shart"
 }

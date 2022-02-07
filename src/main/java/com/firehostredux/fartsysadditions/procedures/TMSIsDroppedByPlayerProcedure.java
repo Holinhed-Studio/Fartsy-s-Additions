@@ -70,5 +70,11 @@ public class TMSIsDroppedByPlayerProcedure {
 		if (world instanceof World && !((World) world).isRemote) {
 			((World) world).createExplosion(null, (int) x, (int) y, (int) z, (float) 0, Explosion.Mode.NONE);
 		}
+		if (world instanceof ServerWorld) {
+			((World) world).getServer().getCommandManager().handleCommand(
+					new CommandSource(ICommandSource.DUMMY, new Vector3d(x, y, z), Vector2f.ZERO, (ServerWorld) world, 4, "",
+							new StringTextComponent(""), ((World) world).getServer(), null).withFeedbackDisabled(),
+					"playsound fartsys_additions:emone record @a ~ ~ ~ 0.125");
+		}
 	}
 }
