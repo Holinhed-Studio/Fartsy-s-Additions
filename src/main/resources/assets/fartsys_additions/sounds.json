@@ -8,5 +8,465 @@
         "stream": true
       }
     ]
+  },
+  "agentofinquiry": {
+    "category": "record",
+    "subtitle": "subtitles.agentofinquiry",
+    "sounds": [
+      {
+        "name": "fartsys_additions:agentofinquiry",
+        "stream": true
+      }
+    ]
+  },
+  "alandlongdead": {
+    "category": "record",
+    "subtitle": "subtitles.alandlongdead",
+    "sounds": [
+      {
+        "name": "fartsys_additions:alandlongdead",
+        "stream": true
+      }
+    ]
+  },
+  "artificialsun": {
+    "category": "record",
+    "subtitle": "subtitles.artificialsun",
+    "sounds": [
+      {
+        "name": "fartsys_additions:artificialsun",
+        "stream": true
+      }
+    ]
+  },
+  "atomicrenegade": {
+    "category": "record",
+    "subtitle": "subtitles.atomicrenegade",
+    "sounds": [
+      {
+        "name": "fartsys_additions:atomicrenegade",
+        "stream": true
+      }
+    ]
+  },
+  "atomicrenegaderemake": {
+    "category": "record",
+    "subtitle": "subtitles.atomicrenegaderemake",
+    "sounds": [
+      {
+        "name": "fartsys_additions:atomicrenegaderemake",
+        "stream": true
+      }
+    ]
+  },
+  "badapple": {
+    "category": "record",
+    "subtitle": "subtitles.badapple",
+    "sounds": [
+      {
+        "name": "fartsys_additions:badapple",
+        "stream": true
+      }
+    ]
+  },
+  "battleonthebigbridgev": {
+    "category": "record",
+    "subtitle": "subtitles.battleonthebigbridgev",
+    "sounds": [
+      {
+        "name": "fartsys_additions:battleonthebigbridgev",
+        "stream": true
+      }
+    ]
+  },
+  "battleonthebigbridgexiv": {
+    "category": "record",
+    "subtitle": "subtitles.battleonthebigbridgexiv",
+    "sounds": [
+      {
+        "name": "fartsys_additions:battleonthebigbridgexiv",
+        "stream": true
+      }
+    ]
+  },
+  "brutejustice": {
+    "category": "record",
+    "subtitle": "subtitles.brutejustice",
+    "sounds": [
+      {
+        "name": "fartsys_additions:brutejustice",
+        "stream": true
+      }
+    ]
+  },
+  "brutejusticeprimals": {
+    "category": "record",
+    "subtitle": "subtitles.brutejusticeprimals",
+    "sounds": [
+      {
+        "name": "fartsys_additions:brutejusticeprimals",
+        "stream": true
+      }
+    ]
+  },
+  "burythelightmission20": {
+    "category": "record",
+    "subtitle": "subtitles.burythelightmission20",
+    "sounds": [
+      {
+        "name": "fartsys_additions:burythelightmission20",
+        "stream": true
+      }
+    ]
+  },
+  "cosmicmind": {
+    "category": "record",
+    "subtitle": "subtitles.cosmicmind",
+    "sounds": [
+      {
+        "name": "fartsys_additions:cosmicmind",
+        "stream": true
+      }
+    ]
+  },
+  "cruelangelsthesis": {
+    "category": "record",
+    "subtitle": "subtitles.cruelangelsthesis",
+    "sounds": [
+      {
+        "name": "fartsys_additions:cruelangelsthesis",
+        "stream": true
+      }
+    ]
+  },
+  "deviltrigger": {
+    "category": "record",
+    "subtitle": "subtitles.deviltrigger",
+    "sounds": [
+      {
+        "name": "fartsys_additions:deviltrigger",
+        "stream": true
+      }
+    ]
+  },
+  "exponentialentropy": {
+    "category": "record",
+    "subtitle": "subtitles.exponentialentropy",
+    "sounds": [
+      {
+        "name": "fartsys_additions:exponentialentropy",
+        "stream": true
+      }
+    ]
+  },
+  "exponentialentropyprimals": {
+    "category": "record",
+    "subtitle": "subtitles.exponentialentropyprimals",
+    "sounds": [
+      {
+        "name": "fartsys_additions:exponentialentropyprimals",
+        "stream": true
+      }
+    ]
+  },
+  "flameofnuclear": {
+    "category": "record",
+    "subtitle": "subtitles.flameofnuclear",
+    "sounds": [
+      {
+        "name": "fartsys_additions:flameofnuclear",
+        "stream": true
+      }
+    ]
+  },
+  "goodkingmogglemog": {
+    "category": "record",
+    "subtitle": "subtitles.goodkingmogglemog",
+    "sounds": [
+      {
+        "name": "fartsys_additions:goodkingmogglemog",
+        "stream": true
+      }
+    ]
+  },
+  "grandmadestruction": {
+    "category": "record",
+    "subtitle": "subtitles.grandmadestruction",
+    "sounds": [
+      {
+        "name": "fartsys_additions:grandmadestruction",
+        "stream": true
+      }
+    ]
+  },
+  "knowledgeneversleeps": {
+    "category": "record",
+    "subtitle": "subtitles.knowledgeneversleeps",
+    "sounds": [
+      {
+        "name": "fartsys_additions:knowledgeneversleeps",
+        "stream": true
+      }
+    ]
+  },
+  "locus": {
+    "category": "record",
+    "subtitle": "subtitles.locus",
+    "sounds": [
+      {
+        "name": "fartsys_additions:locus",
+        "stream": true
+      }
+    ]
+  },
+  "locusprimals": {
+    "category": "record",
+    "subtitle": "subtitles.locusprimals",
+    "sounds": [
+      {
+        "name": "fartsys_additions:locusprimals",
+        "stream": true
+      }
+    ]
+  },
+  "metalmetal": {
+    "category": "record",
+    "subtitle": "subtitles.metalmetal",
+    "sounds": [
+      {
+        "name": "fartsys_additions:metalmetal",
+        "stream": true
+      }
+    ]
+  },
+  "necrofantasia": {
+    "category": "record",
+    "subtitle": "subtitles.necrofantasia",
+    "sounds": [
+      {
+        "name": "fartsys_additions:necrofantasia",
+        "stream": true
+      }
+    ]
+  },
+  "necrofantasiademetori": {
+    "category": "record",
+    "subtitle": "subtitles.necrofantasiademetori",
+    "sounds": [
+      {
+        "name": "fartsys_additions:necrofantasiademetori",
+        "stream": true
+      }
+    ]
+  },
+  "nuclearfusion": {
+    "category": "record",
+    "subtitle": "subtitles.nuclearfusion",
+    "sounds": [
+      {
+        "name": "fartsys_additions:nuclearfusion",
+        "stream": true
+      }
+    ]
+  },
+  "nuclearfusiondemetori": {
+    "category": "record",
+    "subtitle": "subtitles.nuclearfusiondemetori",
+    "sounds": [
+      {
+        "name": "fartsys_additions:nuclearfusiondemetori",
+        "stream": true
+      }
+    ]
+  },
+  "orientaldarkflightdemetori": {
+    "category": "record",
+    "subtitle": "subtitles.orientaldarkflightdemetori",
+    "sounds": [
+      {
+        "name": "fartsys_additions:orientaldarkflightdemetori",
+        "stream": true
+      }
+    ]
+  },
+  "outoftime": {
+    "category": "record",
+    "subtitle": "subtitles.outoftime",
+    "sounds": [
+      {
+        "name": "fartsys_additions:outoftime",
+        "stream": true
+      }
+    ]
+  },
+  "silentregardofstars": {
+    "category": "record",
+    "subtitle": "subtitles.silentregardofstars",
+    "sounds": [
+      {
+        "name": "fartsys_additions:silentregardofstars",
+        "stream": true
+      }
+    ]
+  },
+  "spookyscaryskeletonsdualmix": {
+    "category": "record",
+    "subtitle": "subtitles.spookyscaryskeletonsdualmix",
+    "sounds": [
+      {
+        "name": "fartsys_additions:spookyscaryskeletonsdualmix",
+        "stream": true
+      }
+    ]
+  },
+  "thisishalloween": {
+    "category": "record",
+    "subtitle": "subtitles.thisishalloween",
+    "sounds": [
+      {
+        "name": "fartsys_additions:thisishalloween",
+        "stream": true
+      }
+    ]
+  },
+  "tornfromtheheavens": {
+    "category": "record",
+    "subtitle": "subtitles.tornfromtheheavens",
+    "sounds": [
+      {
+        "name": "fartsys_additions:tornfromtheheavens",
+        "stream": true
+      }
+    ]
+  },
+  "tornfromtheheavenscolossus": {
+    "category": "record",
+    "subtitle": "subtitles.tornfromtheheavenscolossus",
+    "sounds": [
+      {
+        "name": "fartsys_additions:tornfromtheheavenscolossus",
+        "stream": true
+      }
+    ]
+  },
+  "undertheweight": {
+    "category": "record",
+    "subtitle": "subtitles.undertheweight",
+    "sounds": [
+      {
+        "name": "fartsys_additions:undertheweight",
+        "stream": true
+      }
+    ]
+  },
+  "undertheweightprimals": {
+    "category": "record",
+    "subtitle": "subtitles.undertheweightprimals",
+    "sounds": [
+      {
+        "name": "fartsys_additions:undertheweightprimals",
+        "stream": true
+      }
+    ]
+  },
+  "unowenwasher": {
+    "category": "record",
+    "subtitle": "subtitles.unowenwasher",
+    "sounds": [
+      {
+        "name": "fartsys_additions:unowenwasher",
+        "stream": true
+      }
+    ]
+  },
+  "unowenwasherdemetori": {
+    "category": "record",
+    "subtitle": "subtitles.unowenwasherdemetori",
+    "sounds": [
+      {
+        "name": "fartsys_additions:unowenwasherdemetori",
+        "stream": true
+      }
+    ]
+  },
+  "weinterruptthisprogramme": {
+    "category": "record",
+    "subtitle": "subtitles.weinterruptthisprogramme",
+    "sounds": [
+      {
+        "name": "fartsys_additions:weinterruptthisprogramme",
+        "stream": true
+      }
+    ]
+  },
+  "weinterruptthisprogrammeremix": {
+    "category": "record",
+    "subtitle": "subtitles.weinterruptthisprogrammeremix",
+    "sounds": [
+      {
+        "name": "fartsys_additions:weinterruptthisprogrammeremix",
+        "stream": true
+      }
+    ]
+  },
+  "whodoneitdemetori": {
+    "category": "record",
+    "subtitle": "subtitles.whodoneitdemetori",
+    "sounds": [
+      {
+        "name": "fartsys_additions:whodoneitdemetori",
+        "stream": true
+      }
+    ]
+  },
+  "whodoneitmaritumix": {
+    "category": "record",
+    "subtitle": "subtitles.whodoneitmaritumix",
+    "sounds": [
+      {
+        "name": "fartsys_additions:whodoneitmaritumix",
+        "stream": true
+      }
+    ]
+  },
+  "worldsend": {
+    "category": "record",
+    "subtitle": "subtitles.worldsend",
+    "sounds": [
+      {
+        "name": "fartsys_additions:worldsend",
+        "stream": true
+      }
+    ]
+  },
+  "freaks": {
+    "category": "record",
+    "subtitle": "subtitles.freaks",
+    "sounds": [
+      {
+        "name": "fartsys_additions:freaks",
+        "stream": true
+      }
+    ]
+  },
+  "infinity": {
+    "category": "record",
+    "subtitle": "subtitles.infinity",
+    "sounds": [
+      {
+        "name": "fartsys_additions:infinity",
+        "stream": true
+      }
+    ]
+  },
+  "rockandroll": {
+    "category": "record",
+    "subtitle": "subtitles.rockandroll",
+    "sounds": [
+      {
+        "name": "fartsys_additions:rockandroll",
+        "stream": true
+      }
+    ]
   }
 }

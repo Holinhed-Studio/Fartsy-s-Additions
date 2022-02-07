@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "agentofinquiry",
+    "name": "Agent Of Inquiry",
+    "description": "FFXIV - Hildibrand Theme (Agent of Inquiry)",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:agentofinquiry"
+    },
+    "specialInfo": [
+      "Plays in all Manderville quests at least once. Everbody's favorite FF14 music!"
+    ],
+    "hasGlow": false
+  }
+}

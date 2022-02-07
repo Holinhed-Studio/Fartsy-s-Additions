@@ -114,22 +114,436 @@
       ],
       "category": "record",
       "subtitle": "Somebody just self-desharted!"
+    },
+    {
+      "name": "agentofinquiry",
+      "files": [
+        "agentofinquiry"
+      ],
+      "category": "record",
+      "subtitle": "I\u0027m a MANDER MANDER MANDER MANDERVILLE MAN!"
+    },
+    {
+      "name": "alandlongdead",
+      "files": [
+        "alandlongdead"
+      ],
+      "category": "record",
+      "subtitle": "Feel \u0027The Burn\u0027 haha"
+    },
+    {
+      "name": "artificialsun",
+      "files": [
+        "artificialsun"
+      ],
+      "category": "record",
+      "subtitle": "Chill touhou vibes from Maritumix"
+    },
+    {
+      "name": "atomicrenegade",
+      "files": [
+        "atomicrenegade"
+      ],
+      "category": "record",
+      "subtitle": "disc.atomicannihilation"
+    },
+    {
+      "name": "atomicrenegaderemake",
+      "files": [
+        "atomicrenegaderemake"
+      ],
+      "category": "record",
+      "subtitle": "Following total FARTSY annihilation..."
+    },
+    {
+      "name": "badapple",
+      "files": [
+        "badapple"
+      ],
+      "category": "record",
+      "subtitle": "The REAL OG Bad Apple!!"
+    },
+    {
+      "name": "battleonthebigbridgev",
+      "files": [
+        "battleonthebigbridgev"
+      ],
+      "category": "record",
+      "subtitle": "Gilgamesh burrrr"
+    },
+    {
+      "name": "battleonthebigbridgexiv",
+      "files": [
+        "battleonthebigbridgexiv"
+      ],
+      "category": "record",
+      "subtitle": "Gilgamesh burrr but its ffxiv"
+    },
+    {
+      "name": "brutejustice",
+      "files": [
+        "brutejustice"
+      ],
+      "category": "record",
+      "subtitle": "ACTIVATE TRANSFORMATION MODE... "
+    },
+    {
+      "name": "brutejusticeprimals",
+      "files": [
+        "brutejusticeprimals"
+      ],
+      "category": "record",
+      "subtitle": "ACTIVATE TRANSFORMATION PHASE V2..."
+    },
+    {
+      "name": "burythelightmission20",
+      "files": [
+        "burythelightmission20"
+      ],
+      "category": "record",
+      "subtitle": "I AM THE STORM THAT IS APPROACHING"
+    },
+    {
+      "name": "cosmicmind",
+      "files": [
+        "cosmicmind"
+      ],
+      "category": "record",
+      "subtitle": "Kissones Waifu theme aka Byakurens theme"
+    },
+    {
+      "name": "cruelangelsthesis",
+      "files": [
+        "cruelangelsthesis"
+      ],
+      "category": "record",
+      "subtitle": "Eva theme"
+    },
+    {
+      "name": "deviltrigger",
+      "files": [
+        "deviltrigger"
+      ],
+      "category": "record",
+      "subtitle": "BANG BANG BANG PULL MY DEVIL TRIGGER!"
+    },
+    {
+      "name": "exponentialentropy",
+      "files": [
+        "exponentialentropy"
+      ],
+      "category": "record",
+      "subtitle": "FORWARD AND BACK - Alexander trying to parallel park"
+    },
+    {
+      "name": "exponentialentropyprimals",
+      "files": [
+        "exponentialentropyprimals"
+      ],
+      "category": "record",
+      "subtitle": "FORWARD AND BACK - Alexander ACTUALLY parallel parking"
+    },
+    {
+      "name": "flameofnuclear",
+      "files": [
+        "flameofnuclear"
+      ],
+      "category": "record",
+      "subtitle": "Maritumix touhou vibes"
+    },
+    {
+      "name": "goodkingmogglemog",
+      "files": [
+        "goodkingmogglemog"
+      ],
+      "category": "record",
+      "subtitle": "Hail to the king, kupo!"
+    },
+    {
+      "name": "grandmadestruction",
+      "files": [
+        "grandmadestruction"
+      ],
+      "category": "record",
+      "subtitle": "Nier Automata"
+    },
+    {
+      "name": "knowledgeneversleeps",
+      "files": [
+        "knowledgeneversleeps"
+      ],
+      "category": "record",
+      "subtitle": "Graha best boi"
+    },
+    {
+      "name": "locus",
+      "files": [
+        "locus"
+      ],
+      "category": "record",
+      "subtitle": "Ohhhh, its a RAID.... I thought you said RAVE!"
+    },
+    {
+      "name": "locusprimals",
+      "files": [
+        "locusprimals"
+      ],
+      "category": "record",
+      "subtitle": "Hey wait this aint rock and roll, its rock and rave!"
+    },
+    {
+      "name": "metalmetal",
+      "files": [
+        "metalmetal"
+      ],
+      "category": "record",
+      "subtitle": "GOBBIE BOOM SING UPLANDER DOOM!"
+    },
+    {
+      "name": "necrofantasia",
+      "files": [
+        "necrofantasia"
+      ],
+      "category": "record",
+      "subtitle": "no yukari I dont want any girl scout cookies"
+    },
+    {
+      "name": "necrofantasiademetori",
+      "files": [
+        "necrofantasiademetori"
+      ],
+      "category": "record",
+      "subtitle": "ok fine I will take your girl scout cookies"
+    },
+    {
+      "name": "nuclearfusion",
+      "files": [
+        "nuclearfusion"
+      ],
+      "category": "record",
+      "subtitle": "Nuclear flame bird girl go burrrr"
+    },
+    {
+      "name": "nuclearfusiondemetori",
+      "files": [
+        "nuclearfusiondemetori"
+      ],
+      "category": "record",
+      "subtitle": "Nucler flame bird girl extreme"
+    },
+    {
+      "name": "orientaldarkflightdemetori",
+      "files": [
+        "orientaldarkflightdemetori"
+      ],
+      "category": "record",
+      "subtitle": "Marisa Kirisame extreme"
+    },
+    {
+      "name": "outoftime",
+      "files": [
+        "outoftime"
+      ],
+      "category": "record",
+      "subtitle": "Ambiently going forward and back..."
+    },
+    {
+      "name": "silentregardofstars",
+      "files": [
+        "silentregardofstars"
+      ],
+      "category": "record",
+      "subtitle": "Graha best boi"
+    },
+    {
+      "name": "spookyscaryskeletonsdualmix",
+      "files": [
+        "spookyscaryskeletonsdualmix"
+      ],
+      "category": "record",
+      "subtitle": "3spoopy5urmum"
+    },
+    {
+      "name": "thisishalloween",
+      "files": [
+        "thisishalloween"
+      ],
+      "category": "record",
+      "subtitle": "EEEEEEEELEVEN!"
+    },
+    {
+      "name": "tornfromtheheavens",
+      "files": [
+        "tornfromtheheavens"
+      ],
+      "category": "record",
+      "subtitle": "Meanwhile in Coerthas Western Highlands..."
+    },
+    {
+      "name": "tornfromtheheavenscolossus",
+      "files": [
+        "tornfromtheheavenscolossus"
+      ],
+      "category": "record",
+      "subtitle": "The Puppets Bunker go zoom"
+    },
+    {
+      "name": "undertheweight",
+      "files": [
+        "undertheweight"
+      ],
+      "category": "record",
+      "subtitle": "Did you know this song has actual lyrics? BOW DOWN OVERDWELLER!"
+    },
+    {
+      "name": "undertheweightprimals",
+      "files": [
+        "undertheweightprimals"
+      ],
+      "category": "record",
+      "subtitle": "BOW DOWN OVERDWELLER!"
+    },
+    {
+      "name": "unowenwasher",
+      "files": [
+        "unowenwasher"
+      ],
+      "category": "record",
+      "subtitle": "Flandre Scarlet\u0027s McDonalds theme"
+    },
+    {
+      "name": "unowenwasherdemetori",
+      "files": [
+        "unowenwasherdemetori"
+      ],
+      "category": "record",
+      "subtitle": "Flandre Scarlet\u0027s McDonalds Theme extreme"
+    },
+    {
+      "name": "weinterruptthisprogramme",
+      "files": [
+        "weinterruptthisprogramme"
+      ],
+      "category": "record",
+      "subtitle": "did you know this is the original source of the NEDM song?"
+    },
+    {
+      "name": "weinterruptthisprogrammeremix",
+      "files": [
+        "weinterruptthisprogrammeremix"
+      ],
+      "category": "record",
+      "subtitle": "Not even doom music."
+    },
+    {
+      "name": "whodoneitdemetori",
+      "files": [
+        "whodoneitdemetori"
+      ],
+      "category": "record",
+      "subtitle": "Perfect Cherry Blossom, who dun it though?"
+    },
+    {
+      "name": "whodoneitmaritumix",
+      "files": [
+        "whodoneitmaritumix"
+      ],
+      "category": "record",
+      "subtitle": "Maritumix touhou vibes"
+    },
+    {
+      "name": "worldsend",
+      "files": [
+        "worldsend"
+      ],
+      "category": "record",
+      "subtitle": "Kissones waifu theme extreme"
+    },
+    {
+      "name": "freaks",
+      "files": [
+        "freaks"
+      ],
+      "category": "record",
+      "subtitle": "not the trash washer cover I promise"
+    },
+    {
+      "name": "infinity",
+      "files": [
+        "infinity"
+      ],
+      "category": "record",
+      "subtitle": "haha zurvan funni"
+    },
+    {
+      "name": "rockandroll",
+      "files": [
+        "rockandroll"
+      ],
+      "category": "record",
+      "subtitle": "Skrillex good times"
     }
   ],
   "language_map": {
     "en_us": {
       "item.fartsys_additions.one_million_sharts": "One Million Sharts",
-      "item.fartsys_additions.one_hundred_thousand_sharts": "One Hundred Thousand Sharts",
+      "subtitles.exponentialentropy": "FORWARD AND BACK - Alexander trying to parallel park",
+      "subtitles.metalmetal": "GOBBIE BOOM SING UPLANDER DOOM!",
+      "subtitles.orientaldarkflightdemetori": "Marisa Kirisame extreme",
+      "subtitles.atomicrenegaderemake": "Following total FARTSY annihilation...",
+      "subtitles.cruelangelsthesis": "Eva theme",
+      "subtitles.alandlongdead": "Feel \u0027The Burn\u0027 haha",
+      "subtitles.tornfromtheheavenscolossus": "The Puppets Bunker go zoom",
+      "subtitles.weinterruptthisprogrammeremix": "Not even doom music.",
+      "subtitles.goodkingmogglemog": "Hail to the king, kupo!",
+      "subtitles.battleonthebigbridgexiv": "Gilgamesh burrr but its ffxiv",
+      "subtitles.spookyscaryskeletonsdualmix": "3spoopy5urmum",
       "item.fartsys_additions.ten_sharts": "Ten Sharts",
-      "subtitles.emone": "Somebody just self-desharted!",
-      "death.attack.selfdesharted": "%1$s self-desharted!",
-      "item.fartsys_additions.one_hundred_sharts": "One Hundred Sharts",
+      "item.fartsys_additions.one_hundred_thousand_sharts": "One Hundred Thousand Sharts",
+      "subtitles.burythelightmission20": "I AM THE STORM THAT IS APPROACHING",
+      "subtitles.weinterruptthisprogramme": "did you know this is the original source of the NEDM song?",
+      "subtitles.flameofnuclear": "Maritumix touhou vibes",
       "item.fartsys_additions.ten_thousand_sharts": "Ten Thousand Sharts",
-      "item.fartsys_additions.one_thousand_sharts": "One Thousand Sharts",
       "item.fartsys_additions.ten_million_sharts": "Ten Million Sharts",
+      "subtitles.necrofantasiademetori": "ok fine I will take your girl scout cookies",
+      "subtitles.locusprimals": "Hey wait this aint rock and roll, its rock and rave!",
       "itemGroup.tabstinky_things": "Stinky Things",
+      "subtitles.rockandroll": "Skrillex good times",
+      "subtitles.knowledgeneversleeps": "Graha best boi",
+      "subtitles.artificialsun": "Chill touhou vibes from Maritumix",
+      "subtitles.brutejustice": "ACTIVATE TRANSFORMATION MODE... ",
+      "subtitles.brutejusticeprimals": "ACTIVATE TRANSFORMATION PHASE V2...",
+      "subtitles.grandmadestruction": "Nier Automata",
+      "subtitles.exponentialentropyprimals": "FORWARD AND BACK - Alexander ACTUALLY parallel parking",
+      "death.attack.selfdesharted": "%1$s self-desharted!",
+      "subtitles.nuclearfusion": "Nuclear flame bird girl go burrrr",
+      "subtitles.tornfromtheheavens": "Meanwhile in Coerthas Western Highlands...",
+      "subtitles.thisishalloween": "EEEEEEEELEVEN!",
+      "item.fartsys_additions.one_thousand_sharts": "One Thousand Sharts",
+      "subtitles.atomicrenegade": "Following total MAKIRONI annihilation...",
+      "subtitles.agentofinquiry": "I\u0027m a MANDER MANDER MANDER MANDERVILLE MAN!",
+      "subtitles.necrofantasia": "no yukari I dont want any girl scout cookies",
+      "subtitles.undertheweightprimals": "BOW DOWN OVERDWELLER!",
+      "subtitles.freaks": "not the trash washing machine cover I promise",
       "death.attack.selfdesharted.player": "%s ded",
-      "item.fartsys_additions.one_shart": "One Shart"
+      "subtitles.infinity": "haha funni zurvan boss",
+      "item.fartsys_additions.one_shart": "One Shart",
+      "subtitles.outoftime": "Ambiently going forward and back...",
+      "subtitles.undertheweight": "Did you know this song has actual lyrics? BOW DOWN OVERDWELLER!",
+      "subtitles.whodoneitmaritumix": "Maritumix touhou vibes",
+      "subtitles.worldsend": "Kissones waifu theme extreme",
+      "subtitles.unowenwasher": "Flandre Scarlet\u0027s McDonalds theme",
+      "subtitles.unowenwasherdemetori": "Flandre Scarlet\u0027s McDonalds Theme extreme",
+      "subtitles.deviltrigger": "BANG BANG BANG PULL MY DEVIL TRIGGER!",
+      "subtitles.emone": "Somebody just self-desharted!",
+      "subtitles.battleonthebigbridgev": "Gilgamesh burrrr",
+      "item.fartsys_additions.one_hundred_sharts": "One Hundred Sharts",
+      "subtitles.silentregardofstars": "Graha best boi",
+      "subtitles.badapple": "The REAL OG Bad Apple!!",
+      "subtitles.whodoneitdemetori": "Perfect Cherry Blossom, who dun it though?",
+      "subtitles.nuclearfusiondemetori": "Nucler flame bird girl extreme",
+      "subtitles.cosmicmind": "Kissones Waifu theme aka Byakurens theme",
+      "subtitles.locus": "Ohhhh, its a RAID.... I thought you said RAVE!"
     }
   },
   "foldersRoot": {
