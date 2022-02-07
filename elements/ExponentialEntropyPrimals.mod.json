@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "brutejusticemodeprimals",
+    "name": "Exponential Entropy (The Primals)",
+    "description": "FFXIV - Exponential Entropy (The Primals)",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:exponentialentropyprimals"
+    },
+    "specialInfo": [
+      "Alexander Raid Music (The Primals Cover)"
+    ],
+    "hasGlow": true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "artificialsun",
+    "name": "Flame of Nuclear (Maritumix)",
+    "description": "Maritumix - Flame of Nuclear",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:flameofnuclear"
+    },
+    "specialInfo": [
+      "Maritumix Touhou Arranges"
+    ],
+    "hasGlow": true
+  }
+}

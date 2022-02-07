@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "alandlongdead",
+    "name": "Bury The Light (Mission20 ver.)",
+    "description": "DMC5 - Bury The Light (Mission 20 ver.)",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:burythelightmission20"
+    },
+    "specialInfo": [
+      "Vergil's Theme (Game version)"
+    ],
+    "hasGlow": false
+  }
+}

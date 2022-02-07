@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "cosmicmind",
+    "name": "ZUN - Cosmic Mind",
+    "description": "ZUN - Touhou 12 (UFO) - Cosmic Mind",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:cosmicmind"
+    },
+    "specialInfo": [
+      "Touhou UFO - Stage 6 - Boss Theme of Byakuren Hijiri"
+    ],
+    "hasGlow": false
+  }
+}

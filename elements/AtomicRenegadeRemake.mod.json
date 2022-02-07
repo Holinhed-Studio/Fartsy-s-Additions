@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "atomicrenegade",
+    "name": "Atomic Renegade (Remake)",
+    "description": "DAGames - Atomic Renegade (Remake)",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:atomicrenegaderemake"
+    },
+    "specialInfo": [
+      "DAGames Fallout 4 Song"
+    ],
+    "hasGlow": true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "cruelangelsthesis",
+    "name": "EVA OP - A Cruel Angel's Thesis",
+    "description": "Neon Genesis Evangelion - A Cruel Angel's Thesis",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:cruelangelsthesis"
+    },
+    "specialInfo": [
+      "Neon Genesis Evangelion Opening Theme"
+    ],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "atomicrenegade",
+    "name": "Atomic Renegade",
+    "description": "DAGames - Atomic Renegade",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:atomicrenegade"
+    },
+    "specialInfo": [
+      "DAGames Fallout 4 Song"
+    ],
+    "hasGlow": false
+  }
+}

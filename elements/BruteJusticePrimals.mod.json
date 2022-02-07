@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "brutejusticemodeprimals",
+    "name": "Metal: Brute Justice Mode (The Primals)",
+    "description": "FFXIV - Metal: Brute Justice Mode (The Primals)",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:brutejusticeprimals"
+    },
+    "specialInfo": [
+      "Alexander Music Series (The Primals Cover)"
+    ],
+    "hasGlow": true
+  }
+}

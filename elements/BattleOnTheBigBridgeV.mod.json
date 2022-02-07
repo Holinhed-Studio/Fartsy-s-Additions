@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "battleonthebigbridgexiv",
+    "name": "Battle on the Big Bridge (FF V)",
+    "description": "FFV - Battle on the Big Bridge",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:battleonthebigbridgev"
+    },
+    "specialInfo": [
+      "Gilgamesh theme from FFV"
+    ],
+    "hasGlow": false
+  }
+}

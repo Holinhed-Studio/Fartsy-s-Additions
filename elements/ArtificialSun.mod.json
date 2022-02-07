@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "artificialsun",
+    "name": "Artificial Sun",
+    "description": "Maritumix - Artificial Sun",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:artificialsun"
+    },
+    "specialInfo": [
+      "Maritumix Touhou Arranges"
+    ],
+    "hasGlow": true
+  }
+}

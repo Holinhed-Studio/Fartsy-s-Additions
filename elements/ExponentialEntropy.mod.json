@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "brutejusticemodeprimals",
+    "name": "Exponential Entropy",
+    "description": "FFXIV - Exponential Entropy",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:exponentialentropy"
+    },
+    "specialInfo": [
+      "Alexander Raid Music"
+    ],
+    "hasGlow": false
+  }
+}

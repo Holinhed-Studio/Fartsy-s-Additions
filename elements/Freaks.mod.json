@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "spookyscaryskeletonsdualmix",
+    "name": "Freaks (Timmy Trumpet)",
+    "description": "Timmy Trumpet - Freaks",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:freaks"
+    },
+    "specialInfo": [
+      "Timmy Trumpet - Freaks"
+    ],
+    "hasGlow": false
+  }
+}

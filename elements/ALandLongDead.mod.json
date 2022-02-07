@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "alandlongdead",
+    "name": "A Land Long Dead",
+    "description": "FFXIV - A Land Long Dead",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:alandlongdead"
+    },
+    "specialInfo": [
+      "The Burn dungeon theme"
+    ],
+    "hasGlow": false
+  }
+}

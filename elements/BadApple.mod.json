@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "badapple",
+    "name": "Bad Apple",
+    "description": "ZUN - Bad Apple!!",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:badapple"
+    },
+    "specialInfo": [
+      "Touhou Lotus Land Story - Stage 3 Theme - Bad Apple"
+    ],
+    "hasGlow": false
+  }
+}

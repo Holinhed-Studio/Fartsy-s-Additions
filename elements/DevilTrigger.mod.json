@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "deviltrigger",
+    "name": "DMC5 - Devil Trigger",
+    "description": "Devil May Cry 5 - Devil Trigger",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:deviltrigger"
+    },
+    "specialInfo": [
+      "DMC5 - Nero's Theme"
+    ],
+    "hasGlow": false
+  }
+}
