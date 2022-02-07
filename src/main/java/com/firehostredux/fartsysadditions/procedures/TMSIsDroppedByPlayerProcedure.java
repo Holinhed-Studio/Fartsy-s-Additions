@@ -53,9 +53,6 @@ public class TMSIsDroppedByPlayerProcedure {
 		double y = dependencies.get("y") instanceof Integer ? (int) dependencies.get("y") : (double) dependencies.get("y");
 		double z = dependencies.get("z") instanceof Integer ? (int) dependencies.get("z") : (double) dependencies.get("z");
 		Entity entity = (Entity) dependencies.get("entity");
-		if (world instanceof World && !((World) world).isRemote) {
-			((World) world).createExplosion(null, (int) x, (int) y, (int) z, (float) 4, Explosion.Mode.BREAK);
-		}
 		if (entity instanceof LivingEntity) {
 			((LivingEntity) entity).attackEntityFrom(new DamageSource("selfdesharted").setDamageBypassesArmor(), (float) 100000);
 		}
@@ -69,6 +66,9 @@ public class TMSIsDroppedByPlayerProcedure {
 			((World) world).getServer().getCommandManager().handleCommand(new CommandSource(ICommandSource.DUMMY, new Vector3d(x, y, z),
 					Vector2f.ZERO, (ServerWorld) world, 4, "", new StringTextComponent(""), ((World) world).getServer(), null).withFeedbackDisabled(),
 					"clear");
+		}
+		if (world instanceof World && !((World) world).isRemote) {
+			((World) world).createExplosion(null, (int) x, (int) y, (int) z, (float) 0, Explosion.Mode.NONE);
 		}
 	}
 }
