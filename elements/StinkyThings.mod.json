@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Stinky Things",
+    "icon": {
+      "value": "Items.NETHERITE_SCRAP"
+    },
+    "showSearch": true
+  }
+}

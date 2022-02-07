@@ -1,0 +1,77 @@
+{
+  "mod_elements": [
+    {
+      "name": "StinkyThings",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stinky_things"
+    },
+    {
+      "name": "OneShart",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "one_shart"
+    },
+    {
+      "name": "TenSharts",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ten_sharts"
+    },
+    {
+      "name": "OneHundredSharts",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "one_hundred_sharts"
+    },
+    {
+      "name": "OneThousandSharts",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "one_thousand_sharts"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabstinky_things": "Stinky Things",
+      "item.fartsys_additions.ten_sharts": "Ten Sharts",
+      "item.fartsys_additions.one_shart": "One Shart",
+      "item.fartsys_additions.one_hundred_sharts": "One Hundred Sharts",
+      "item.fartsys_additions.one_thousand_sharts": "One Thousand Sharts"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "fartsys_additions",
+    "modName": "Fartsy\u0027s Additions",
+    "version": "1.0.0",
+    "author": "profe, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "com.firehostredux.fartsysadditions",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}
