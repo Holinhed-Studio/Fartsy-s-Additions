@@ -2,3 +2,4 @@ run/
 build/resources/
 build/classes/
 build/tmp/
+.mcreator/workspaceBackups/
