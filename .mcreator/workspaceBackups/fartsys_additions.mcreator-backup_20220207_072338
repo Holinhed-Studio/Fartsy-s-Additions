@@ -63,46 +63,6 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "one_million_sharts"
-    },
-    {
-      "name": "TMSIsDroppedByPlayer",
-      "type": "procedure",
-      "sortid": 8,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "tms_is_dropped_by_player",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "TenMillionSharts",
-      "type": "item",
-      "sortid": 8,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "ten_million_sharts"
     }
   ],
   "variable_elements": [],
@@ -114,11 +74,9 @@
       "item.fartsys_additions.ten_sharts": "Ten Sharts",
       "item.fartsys_additions.one_hundred_thousand_sharts": "One Hundred Thousand Sharts",
       "item.fartsys_additions.one_shart": "One Shart",
-      "death.attack.selfdesharted": "%1$s self-desharted!",
       "item.fartsys_additions.one_hundred_sharts": "One Hundred Sharts",
       "item.fartsys_additions.ten_thousand_sharts": "Ten Thousand Sharts",
-      "item.fartsys_additions.one_thousand_sharts": "One Thousand Sharts",
-      "item.fartsys_additions.ten_million_sharts": "Ten Million Sharts"
+      "item.fartsys_additions.one_thousand_sharts": "One Thousand Sharts"
     }
   },
   "foldersRoot": {
