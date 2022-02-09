@@ -599,6 +599,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "asphalt_recipe"
+    },
+    {
+      "name": "WaffleOfAssDestructionRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waffle_of_ass_destruction_recipe"
     }
   ],
   "variable_elements": [],
