@@ -59,7 +59,7 @@ public class RockSaltBlock extends FartsysAdditionsModElements.ModElement {
 
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ORGANIC).sound(SoundType.WET_GRASS).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0)
+			super(Block.Properties.create(Material.SAND).sound(SoundType.SAND).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0)
 					.doesNotBlockMovement().notSolid().setOpaque((bs, br, bp) -> false));
 			setRegistryName("rock_salt");
 		}
