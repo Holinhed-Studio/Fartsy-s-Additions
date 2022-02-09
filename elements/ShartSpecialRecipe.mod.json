@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "stinkystuff",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TenMillionSharts"
+      },
+      {
+        "value": "CUSTOM:TenMillionSharts"
+      },
+      {
+        "value": "CUSTOM:TenMillionSharts"
+      },
+      {
+        "value": "CUSTOM:TenMillionSharts"
+      },
+      {
+        "value": "Items.GOLDEN_APPLE#1"
+      },
+      {
+        "value": "CUSTOM:TenMillionSharts"
+      },
+      {
+        "value": "CUSTOM:TenMillionSharts"
+      },
+      {
+        "value": "CUSTOM:TenMillionSharts"
+      },
+      {
+        "value": "CUSTOM:TenMillionSharts"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ShartSpecial"
+    },
+    "name": "shart_special_recipe",
+    "namespace": "mod"
+  }
+}

@@ -4,6 +4,8 @@ build/classes/
 build/tmp/
 .mcreator/workspaceBackups/
 
-build/reobfJar/output.jar
+*.lock
 
 build/libs/modid-1.0.jar
+
+build/reobfJar/output.jar

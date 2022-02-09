@@ -519,6 +519,70 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "waffle_of_ass_destruction"
+    },
+    {
+      "name": "ShartSpecialFoodEaten",
+      "type": "procedure",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shart_special_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ShartSpecial",
+      "type": "food",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shart_special"
+    },
+    {
+      "name": "ShartSpecialLivingEntityIsHitWithItem",
+      "type": "procedure",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shart_special_living_entity_is_hit_with_item",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ShartSpecialRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shart_special_recipe"
+    },
+    {
+      "name": "RockSaltRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rock_salt_recipe"
+    },
+    {
+      "name": "RockSalt",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rock_salt"
     }
   ],
   "variable_elements": [],
@@ -914,12 +978,14 @@
       "item.fartsys_additions.silent_regard_of_stars": "FFXIV - The Silent Regard of Stars",
       "subtitles.metalmetal": "GOBBIE BOOM SING UPLANDER DOOM!",
       "subtitles.orientaldarkflightdemetori": "Marisa Kirisame extreme",
+      "death.attack.waterydemise": "%1$s met a watery demise!",
       "item.fartsys_additions.necrofantasia": "ZUN - Necrofantasia",
       "item.fartsys_additions.exponential_entropy_primals.desc": "FFXIV - Exponential Entropy (The Primals)",
-      "item.fartsys_additions.exponential_entropy_primals": "Exponential Entropy (The Primals)",
       "item.fartsys_additions.devil_trigger": "DMC5 - Devil Trigger",
+      "item.fartsys_additions.exponential_entropy_primals": "Exponential Entropy (The Primals)",
       "subtitles.tornfromtheheavenscolossus": "The Puppets Bunker go zoom",
       "item.fartsys_additions.who_done_it_maritumix": "Maritumix - Who Done It",
+      "death.attack.waterydemise.player": "%1$s met a watery demise!",
       "item.fartsys_additions.we_interrupt_this_programme": "We Interrupt This Programme",
       "item.fartsys_additions.a_land_long_dead.desc": "FFXIV - A Land Long Dead",
       "subtitles.weinterruptthisprogrammeremix": "Not even doom music.",
@@ -927,14 +993,14 @@
       "item.fartsys_additions.artificial_sun": "Artificial Sun",
       "item.fartsys_additions.locus_primals.desc": "FFXIV - Locus (The Primals)",
       "item.fartsys_additions.nuclear_fusion": "ZUN - Nuclear Fusion",
-      "item.fartsys_additions.torn_from_the_heavens.desc": "FFXIV - Torn From The Heavens",
-      "item.fartsys_additions.battle_on_the_big_bridge_xiv": "Battle on the Big Bridge (FF XIV)",
       "item.fartsys_additions.bury_the_light_mission_20": "Bury The Light (Mission20 ver.)",
+      "item.fartsys_additions.battle_on_the_big_bridge_xiv": "Battle on the Big Bridge (FF XIV)",
+      "item.fartsys_additions.torn_from_the_heavens.desc": "FFXIV - Torn From The Heavens",
       "item.fartsys_additions.waffle_of_ass_destruction": "Waffle of Ass Destruction",
       "item.fartsys_additions.spooky_scary_skeletons_dual_mix": "Fartsy - Spooky Scary Skeletons (Dual Mix)",
       "item.fartsys_additions.ten_sharts": "Ten Sharts",
-      "item.fartsys_additions.under_the_weight_primals.desc": "FFXIV - Under The Weight (The Primals)",
       "subtitles.burythelightmission20": "I AM THE STORM THAT IS APPROACHING",
+      "item.fartsys_additions.under_the_weight_primals.desc": "FFXIV - Under The Weight (The Primals)",
       "subtitles.weinterruptthisprogramme": "did you know this is the original source of the NEDM song?",
       "item.fartsys_additions.exponential_entropy.desc": "FFXIV - Exponential Entropy",
       "item.fartsys_additions.ten_thousand_sharts": "Ten Thousand Sharts",
@@ -949,6 +1015,7 @@
       "item.fartsys_additions.under_the_weight": "FFXIV - Under The Weight",
       "subtitles.brutejusticeprimals": "ACTIVATE TRANSFORMATION PHASE V2...",
       "subtitles.grandmadestruction": "Nier Automata",
+      "item.fartsys_additions.shart_special": "Shart Special",
       "subtitles.exponentialentropyprimals": "FORWARD AND BACK - Alexander ACTUALLY parallel parking",
       "item.fartsys_additions.this_is_halloween.desc": "The Nightmare Before Christmas - This is Halloween",
       "subtitles.nuclearfusion": "Nuclear flame bird girl go burrrr",
@@ -995,6 +1062,7 @@
       "item.fartsys_additions.battle_on_the_big_bridge_xiv.desc": "FFXIV - Battle on the Big Bridge",
       "death.attack.waffleofassdestruction": "%1$s experienced Professor Fartsalot\u0027s Ass.",
       "item.fartsys_additions.freaks.desc": "Timmy Trumpet - Freaks",
+      "block.fartsys_additions.rock_salt": "Rock Salt",
       "subtitles.battleonthebigbridgexiv": "Gilgamesh burrr but its ffxiv",
       "item.fartsys_additions.agent_of_inquiry": "Agent Of Inquiry",
       "item.fartsys_additions.it_was_a_good_day.desc": "Ice Cube - It Was A Good Day",

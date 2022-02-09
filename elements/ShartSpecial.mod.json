@@ -1,0 +1,34 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "shartspecial",
+    "customModelName": "Normal",
+    "name": "Shart Special",
+    "rarity": "EPIC",
+    "specialInfo": [
+      "WHAT IS THAT SMELL??? *The stench of Discovery!*"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 50,
+    "saturation": 50.0,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "drink",
+    "hasGlow": true,
+    "onEaten": {
+      "name": "ShartSpecialFoodEaten"
+    },
+    "onEntityHitWith": {
+      "name": "ShartSpecialLivingEntityIsHitWithItem"
+    }
+  }
+}
