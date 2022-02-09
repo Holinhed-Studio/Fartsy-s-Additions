@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 16,
+    "group": "stinkystuff",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TenMillionSharts"
+      },
+      {
+        "value": "CUSTOM:TenMillionSharts"
+      },
+      {
+        "value": "CUSTOM:TenMillionSharts"
+      },
+      {
+        "value": "CUSTOM:TenMillionSharts"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "CUSTOM:TenMillionSharts"
+      },
+      {
+        "value": "CUSTOM:TenMillionSharts"
+      },
+      {
+        "value": "CUSTOM:TenMillionSharts"
+      },
+      {
+        "value": "CUSTOM:TenMillionSharts"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WaffleOfAssDestruction"
+    },
+    "name": "waffle_of_ass_destruction_recipe",
+    "namespace": "mod"
+  }
+}

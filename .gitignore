@@ -6,6 +6,10 @@ build/tmp/
 
 *.lock
 
+.gradle/7.1.1/executionHistory/executionHistory.bin
+
+.gradle/7.1.1/fileHashes/fileHashes.bin
+
 build/libs/modid-1.0.jar
 
 build/reobfJar/output.jar
