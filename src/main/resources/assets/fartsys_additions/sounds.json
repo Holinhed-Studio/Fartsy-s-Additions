@@ -468,5 +468,15 @@
         "stream": true
       }
     ]
+  },
+  "itwasagoodday": {
+    "category": "record",
+    "subtitle": "subtitles.itwasagoodday",
+    "sounds": [
+      {
+        "name": "fartsys_additions:itwasagoodday",
+        "stream": true
+      }
+    ]
   }
 }

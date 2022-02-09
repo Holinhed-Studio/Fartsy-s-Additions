@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "spookyscaryskeletonsdualmix",
+    "name": "Ice Cube - It Was A Good Day",
+    "description": "Ice Cube - It Was A Good Day",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:itwasagoodday"
+    },
+    "specialInfo": [
+      "Two in the morning got the fat burger!"
+    ],
+    "hasGlow": false
+  }
+}

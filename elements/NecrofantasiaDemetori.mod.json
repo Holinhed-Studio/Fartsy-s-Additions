@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "necrofantasiademetori",
+    "name": "Necrofantasia (Demetori)",
+    "description": "Demetori - Necrofantasia",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:necrofantasiademetori"
+    },
+    "specialInfo": [
+      "Touhou 07 - Yukari's Theme (Demetori Cover)"
+    ],
+    "hasGlow": true
+  }
+}

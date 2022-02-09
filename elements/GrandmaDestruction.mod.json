@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "spookyscaryskeletonsdualmix",
+    "name": "FFXIV - Grandma (Destruction)",
+    "description": "FFXIV - Grandma (Destruction)",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:grandmadestruction"
+    },
+    "specialInfo": [
+      "Nier Raid Music"
+    ],
+    "hasGlow": false
+  }
+}

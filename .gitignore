@@ -3,3 +3,7 @@ build/resources/
 build/classes/
 build/tmp/
 .mcreator/workspaceBackups/
+
+build/reobfJar/output.jar
+
+build/libs/modid-1.0.jar

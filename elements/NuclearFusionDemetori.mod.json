@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "nuclearfusiondemetori",
+    "name": "Demetori - Nuclear Fusion",
+    "description": "Demetori - Nuclear Fusion",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:nuclearfusiondemetori"
+    },
+    "specialInfo": [
+      "Touhou 11 - Utsuho Reiuji's Theme (Demetori Cover)"
+    ],
+    "hasGlow": true
+  }
+}

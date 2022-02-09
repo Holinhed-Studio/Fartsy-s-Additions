@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "artificialsun",
+    "name": "ZUN - Nuclear Fusion",
+    "description": "ZUN - Nuclear Fusion",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:nuclearfusion"
+    },
+    "specialInfo": [
+      "Touhou 11 - Utsuho Reiuji's Theme"
+    ],
+    "hasGlow": false
+  }
+}

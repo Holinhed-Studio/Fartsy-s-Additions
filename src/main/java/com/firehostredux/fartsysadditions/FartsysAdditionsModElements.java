@@ -140,6 +140,8 @@ public class FartsysAdditionsModElements {
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "infinity")));
 		sounds.put(new ResourceLocation("fartsys_additions", "rockandroll"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "rockandroll")));
+		sounds.put(new ResourceLocation("fartsys_additions", "itwasagoodday"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fartsys_additions", "itwasagoodday")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("fartsys_additions").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

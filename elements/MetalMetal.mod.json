@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "brutejusticemodeprimals",
+    "name": "FFXIV - Metal",
+    "description": "FFXIV - Metal",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:metalmetal"
+    },
+    "specialInfo": [
+      "Alexander Raid Music"
+    ],
+    "hasGlow": false
+  }
+}

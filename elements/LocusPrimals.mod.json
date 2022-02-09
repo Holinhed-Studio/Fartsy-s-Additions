@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "exponentialentropyprimals",
+    "name": "FFXIV - Locus (Primals)",
+    "description": "FFXIV - Locus (The Primals)",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:locusprimals"
+    },
+    "specialInfo": [
+      "Alexander Raid Music (The Primals Cover)"
+    ],
+    "hasGlow": true
+  }
+}

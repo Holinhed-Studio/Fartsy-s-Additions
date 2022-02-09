@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "silentregardofstars",
+    "name": "FFXIV - Knowledge Never Sleeps",
+    "description": "FFXIV - Knowledge Never Sleeps",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:knowledgeneversleeps"
+    },
+    "specialInfo": [
+      "The Crystarium Night Theme"
+    ],
+    "hasGlow": false
+  }
+}

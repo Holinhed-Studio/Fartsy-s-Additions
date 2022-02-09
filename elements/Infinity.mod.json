@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "undertheweight",
+    "name": "FFXIV - Infinity",
+    "description": "FFXIV - Infinity (Zurvan Boss Theme)",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:infinity"
+    },
+    "specialInfo": [
+      "Zurvan's Theme from FFXIV"
+    ],
+    "hasGlow": false
+  }
+}

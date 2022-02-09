@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "necrofantasiademetori",
+    "name": "ZUN - Necrofantasia",
+    "description": "ZUN - Necrofantasia",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:necrofantasia"
+    },
+    "specialInfo": [
+      "Touhou 07 - Yukari's Theme"
+    ],
+    "hasGlow": false
+  }
+}
