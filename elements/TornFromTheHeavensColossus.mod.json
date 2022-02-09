@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "knowledgeneversleeps",
+    "name": "Torn From The Heavens (Colossus)",
+    "description": "FFXIV - Torn From The Heavens / The Dark Colossus Consumes All",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:tornfromtheheavenscolossus"
+    },
+    "specialInfo": [
+      "The Puppets' Bunker Raid Music"
+    ],
+    "hasGlow": true
+  }
+}

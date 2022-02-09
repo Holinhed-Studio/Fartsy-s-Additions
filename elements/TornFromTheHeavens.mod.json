@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "knowledgeneversleeps",
+    "name": "FFXIV - Torn From The Heavens",
+    "description": "FFXIV - Torn From The Heavens",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:tornfromtheheavens"
+    },
+    "specialInfo": [
+      "Fate Music"
+    ],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "tornfromtheheavens",
+    "name": "Demetori - Who Done It",
+    "description": "Demetori - Who Done It",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:whodoneitdemetori"
+    },
+    "specialInfo": [
+      "Touhou 07 - Phantasm Stage Theme (Demetori Cover)"
+    ],
+    "hasGlow": true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "thisishalloween",
+    "name": "We Interrupt This Programme (Remix)",
+    "description": "We Interrupt This Programme (Remix)",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:weinterruptthisprogrammeremix"
+    },
+    "specialInfo": [
+      "Not Even Doom Music."
+    ],
+    "hasGlow": true
+  }
+}

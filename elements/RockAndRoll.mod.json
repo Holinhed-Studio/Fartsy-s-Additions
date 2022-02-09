@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "cosmicmind",
+    "name": "Skrillex - Rock N' Roll",
+    "description": "Skrillex - Rock N' Roll (Will Take You to the Mountain)",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:rockandroll"
+    },
+    "specialInfo": [
+      "Scary Monsters And Nice Sprites"
+    ],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "silentregardofstars",
+    "name": "FFXIV - The Silent Regard of Stars",
+    "description": "FFXIV - The Silent Regard of Stars",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:silentregardofstars"
+    },
+    "specialInfo": [
+      "Dravanian Hinterlands Night Theme"
+    ],
+    "hasGlow": false
+  }
+}

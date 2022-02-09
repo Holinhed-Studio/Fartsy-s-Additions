@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "spookyscaryskeletonsdualmix",
+    "name": "We Interrupt This Programme",
+    "description": "Coburn - We Interrupt This Programme",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:weinterruptthisprogramme"
+    },
+    "specialInfo": [
+      "Source of the NEDM song"
+    ],
+    "hasGlow": false
+  }
+}

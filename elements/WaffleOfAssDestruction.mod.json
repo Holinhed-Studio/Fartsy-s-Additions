@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "waffle",
+    "customModelName": "Normal",
+    "name": "Waffle of Ass Destruction",
+    "rarity": "EPIC",
+    "specialInfo": [
+      "Who needs WMDs when you have a waffle..?"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "stackSize": 1,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
+    "eatingSpeed": 1,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": true,
+    "onEaten": {
+      "name": "WaffleOfAssDestructionFoodEaten"
+    }
+  }
+}

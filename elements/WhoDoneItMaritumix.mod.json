@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "tornfromtheheavens",
+    "name": "Maritumix - Who Done It",
+    "description": "Maritumix - Who Done It",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:whodoneitmaritumix"
+    },
+    "specialInfo": [
+      "Maritumix Touhou Arranges"
+    ],
+    "hasGlow": true
+  }
+}

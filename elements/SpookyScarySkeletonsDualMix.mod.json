@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "unowenwasher",
+    "name": "Fartsy - Spooky Scary Skeletons (Dual Mix)",
+    "description": "Fartsy - Spooky Scary Skeletons (Dual Mix)",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:spookyscaryskeletonsdualmix"
+    },
+    "specialInfo": [
+      "A dual mix of Living Tombstone's original and remake of Spooky Scary Skeletons."
+    ],
+    "hasGlow": true
+  }
+}

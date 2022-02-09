@@ -359,6 +359,166 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "out_of_time"
+    },
+    {
+      "name": "RockAndRoll",
+      "type": "musicdisc",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rock_and_roll"
+    },
+    {
+      "name": "SilentRegardOfStars",
+      "type": "musicdisc",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silent_regard_of_stars"
+    },
+    {
+      "name": "SpookyScarySkeletonsDualMix",
+      "type": "musicdisc",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spooky_scary_skeletons_dual_mix"
+    },
+    {
+      "name": "ThisIsHalloween",
+      "type": "musicdisc",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "this_is_halloween"
+    },
+    {
+      "name": "TornFromTheHeavens",
+      "type": "musicdisc",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "torn_from_the_heavens"
+    },
+    {
+      "name": "TornFromTheHeavensColossus",
+      "type": "musicdisc",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "torn_from_the_heavens_colossus"
+    },
+    {
+      "name": "UnderTheWeight",
+      "type": "musicdisc",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "under_the_weight"
+    },
+    {
+      "name": "UnderTheWeightPrimals",
+      "type": "musicdisc",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "under_the_weight_primals"
+    },
+    {
+      "name": "UnOwenWasHer",
+      "type": "musicdisc",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "un_owen_was_her"
+    },
+    {
+      "name": "UnOwenWasHerDemetori",
+      "type": "musicdisc",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "un_owen_was_her_demetori"
+    },
+    {
+      "name": "WeInterruptThisProgramme",
+      "type": "musicdisc",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "we_interrupt_this_programme"
+    },
+    {
+      "name": "WeInterruptThisProgrammeRemix",
+      "type": "musicdisc",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "we_interrupt_this_programme_remix"
+    },
+    {
+      "name": "WhoDoneItDemetori",
+      "type": "musicdisc",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "who_done_it_demetori"
+    },
+    {
+      "name": "WhoDoneItMaritumix",
+      "type": "musicdisc",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "who_done_it_maritumix"
+    },
+    {
+      "name": "WorldsEnd",
+      "type": "musicdisc",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "worlds_end"
+    },
+    {
+      "name": "WaffleOfAssDestructionFoodEaten",
+      "type": "procedure",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waffle_of_ass_destruction_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "WaffleOfAssDestruction",
+      "type": "food",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waffle_of_ass_destruction"
     }
   ],
   "variable_elements": [],
@@ -751,22 +911,29 @@
   "language_map": {
     "en_us": {
       "item.fartsys_additions.cosmic_mind": "ZUN - Cosmic Mind",
+      "item.fartsys_additions.silent_regard_of_stars": "FFXIV - The Silent Regard of Stars",
       "subtitles.metalmetal": "GOBBIE BOOM SING UPLANDER DOOM!",
       "subtitles.orientaldarkflightdemetori": "Marisa Kirisame extreme",
-      "item.fartsys_additions.exponential_entropy_primals.desc": "FFXIV - Exponential Entropy (The Primals)",
       "item.fartsys_additions.necrofantasia": "ZUN - Necrofantasia",
+      "item.fartsys_additions.exponential_entropy_primals.desc": "FFXIV - Exponential Entropy (The Primals)",
       "item.fartsys_additions.exponential_entropy_primals": "Exponential Entropy (The Primals)",
       "item.fartsys_additions.devil_trigger": "DMC5 - Devil Trigger",
       "subtitles.tornfromtheheavenscolossus": "The Puppets Bunker go zoom",
+      "item.fartsys_additions.who_done_it_maritumix": "Maritumix - Who Done It",
+      "item.fartsys_additions.we_interrupt_this_programme": "We Interrupt This Programme",
       "item.fartsys_additions.a_land_long_dead.desc": "FFXIV - A Land Long Dead",
       "subtitles.weinterruptthisprogrammeremix": "Not even doom music.",
       "subtitles.goodkingmogglemog": "Hail to the king, kupo!",
       "item.fartsys_additions.artificial_sun": "Artificial Sun",
       "item.fartsys_additions.locus_primals.desc": "FFXIV - Locus (The Primals)",
       "item.fartsys_additions.nuclear_fusion": "ZUN - Nuclear Fusion",
-      "item.fartsys_additions.bury_the_light_mission_20": "Bury The Light (Mission20 ver.)",
+      "item.fartsys_additions.torn_from_the_heavens.desc": "FFXIV - Torn From The Heavens",
       "item.fartsys_additions.battle_on_the_big_bridge_xiv": "Battle on the Big Bridge (FF XIV)",
+      "item.fartsys_additions.bury_the_light_mission_20": "Bury The Light (Mission20 ver.)",
+      "item.fartsys_additions.waffle_of_ass_destruction": "Waffle of Ass Destruction",
+      "item.fartsys_additions.spooky_scary_skeletons_dual_mix": "Fartsy - Spooky Scary Skeletons (Dual Mix)",
       "item.fartsys_additions.ten_sharts": "Ten Sharts",
+      "item.fartsys_additions.under_the_weight_primals.desc": "FFXIV - Under The Weight (The Primals)",
       "subtitles.burythelightmission20": "I AM THE STORM THAT IS APPROACHING",
       "subtitles.weinterruptthisprogramme": "did you know this is the original source of the NEDM song?",
       "item.fartsys_additions.exponential_entropy.desc": "FFXIV - Exponential Entropy",
@@ -774,21 +941,29 @@
       "item.fartsys_additions.ten_million_sharts": "Ten Million Sharts",
       "subtitles.locusprimals": "Hey wait this aint rock and roll, its rock and rave!",
       "item.fartsys_additions.bury_the_light_mission_20.desc": "DMC5 - Bury The Light (Mission 20 ver.)",
+      "item.fartsys_additions.under_the_weight_primals": "FFXIV - Under The Weight (The Primals)",
       "itemGroup.tabstinky_things": "Stinky Things",
       "subtitles.rockandroll": "Skrillex good times",
       "item.fartsys_additions.battle_on_the_big_bridge_v.desc": "FFV - Battle on the Big Bridge",
+      "item.fartsys_additions.torn_from_the_heavens_colossus.desc": "FFXIV - Torn From The Heavens / The Dark Colossus Consumes All",
+      "item.fartsys_additions.under_the_weight": "FFXIV - Under The Weight",
       "subtitles.brutejusticeprimals": "ACTIVATE TRANSFORMATION PHASE V2...",
       "subtitles.grandmadestruction": "Nier Automata",
       "subtitles.exponentialentropyprimals": "FORWARD AND BACK - Alexander ACTUALLY parallel parking",
+      "item.fartsys_additions.this_is_halloween.desc": "The Nightmare Before Christmas - This is Halloween",
       "subtitles.nuclearfusion": "Nuclear flame bird girl go burrrr",
       "item.fartsys_additions.one_thousand_sharts": "One Thousand Sharts",
-      "subtitles.freaks": "not the trash washing machine cover I promise",
+      "item.fartsys_additions.we_interrupt_this_programme.desc": "Coburn - We Interrupt This Programme",
       "subtitles.undertheweightprimals": "BOW DOWN OVERDWELLER!",
+      "subtitles.freaks": "not the trash washing machine cover I promise",
       "item.fartsys_additions.bad_apple.desc": "ZUN - Bad Apple!!",
       "subtitles.outoftime": "Ambiently going forward and back...",
+      "item.fartsys_additions.rock_and_roll": "Skrillex - Rock N\u0027 Roll",
       "subtitles.undertheweight": "Did you know this song has actual lyrics? BOW DOWN OVERDWELLER!",
       "item.fartsys_additions.cosmic_mind.desc": "ZUN - Touhou 12 (UFO) - Cosmic Mind",
       "subtitles.worldsend": "Kissones waifu theme extreme",
+      "item.fartsys_additions.torn_from_the_heavens_colossus": "Torn From The Heavens (Colossus)",
+      "item.fartsys_additions.un_owen_was_her.desc": "ZUN - Un Owen Was Her?",
       "item.fartsys_additions.locus_primals": "FFXIV - Locus (Primals)",
       "item.fartsys_additions.brute_justice_primals.desc": "FFXIV - Metal: Brute Justice Mode (The Primals)",
       "subtitles.itwasagoodday": "GTA IV be like",
@@ -797,39 +972,50 @@
       "subtitles.battleonthebigbridgev": "Gilgamesh burrrr",
       "item.fartsys_additions.atomic_renegade_remake": "Atomic Renegade (Remake)",
       "item.fartsys_additions.nuclear_fusion_demetori": "Demetori - Nuclear Fusion",
+      "item.fartsys_additions.un_owen_was_her_demetori": "Demetori - Un Owen Was Her",
+      "item.fartsys_additions.worlds_end": "Demetori - World\u0027s End",
       "subtitles.badapple": "The REAL OG Bad Apple!!",
       "item.fartsys_additions.good_king_moggle_mog.desc": "FFXIV - Good King Moggle Mog XII",
       "item.fartsys_additions.devil_trigger.desc": "Devil May Cry 5 - Devil Trigger",
+      "item.fartsys_additions.silent_regard_of_stars.desc": "FFXIV - The Silent Regard of Stars",
       "item.fartsys_additions.it_was_a_good_day": "Ice Cube - It Was A Good Day",
       "item.fartsys_additions.one_million_sharts": "One Million Sharts",
       "subtitles.exponentialentropy": "FORWARD AND BACK - Alexander trying to parallel park",
       "item.fartsys_additions.grandma_destruction": "FFXIV - Grandma (Destruction)",
       "subtitles.atomicrenegaderemake": "Following total FARTSY annihilation...",
       "subtitles.cruelangelsthesis": "Eva theme",
+      "item.fartsys_additions.who_done_it_demetori.desc": "Demetori - Who Done It",
       "subtitles.alandlongdead": "Feel \u0027The Burn\u0027 haha",
       "item.fartsys_additions.knowledge_never_sleeps": "FFXIV - Knowledge Never Sleeps",
       "item.fartsys_additions.nuclear_fusion.desc": "ZUN - Nuclear Fusion",
+      "item.fartsys_additions.who_done_it_maritumix.desc": "Maritumix - Who Done It",
       "item.fartsys_additions.atomic_renegade": "Atomic Renegade",
       "item.fartsys_additions.locus": "FFXIV - Locus",
       "item.fartsys_additions.infinity.desc": "FFXIV - Infinity (Zurvan Boss Theme)",
       "item.fartsys_additions.battle_on_the_big_bridge_xiv.desc": "FFXIV - Battle on the Big Bridge",
+      "death.attack.waffleofassdestruction": "%1$s experienced Professor\u0027s Ass.",
       "item.fartsys_additions.freaks.desc": "Timmy Trumpet - Freaks",
       "subtitles.battleonthebigbridgexiv": "Gilgamesh burrr but its ffxiv",
       "item.fartsys_additions.agent_of_inquiry": "Agent Of Inquiry",
       "item.fartsys_additions.it_was_a_good_day.desc": "Ice Cube - It Was A Good Day",
       "item.fartsys_additions.necrofantasia.desc": "ZUN - Necrofantasia",
+      "item.fartsys_additions.we_interrupt_this_programme_remix": "We Interrupt This Programme (Remix)",
       "item.fartsys_additions.freaks": "Freaks (Timmy Trumpet)",
       "subtitles.spookyscaryskeletonsdualmix": "3spoopy5urmum",
       "item.fartsys_additions.cruel_angels_thesis.desc": "Neon Genesis Evangelion - A Cruel Angel\u0027s Thesis",
       "item.fartsys_additions.one_hundred_thousand_sharts": "One Hundred Thousand Sharts",
+      "item.fartsys_additions.un_owen_was_her_demetori.desc": "Demetori - Un Owen Was Her?",
       "subtitles.flameofnuclear": "Maritumix touhou vibes",
+      "item.fartsys_additions.who_done_it_demetori": "Demetori - Who Done It",
       "subtitles.necrofantasiademetori": "ok fine I will take your girl scout cookies",
       "item.fartsys_additions.cruel_angels_thesis": "EVA OP - A Cruel Angel\u0027s Thesis",
       "item.fartsys_additions.oriental_dark_flight_demetori.desc": "Demetori - Oriental Dark Flight",
       "item.fartsys_additions.metal_metal": "FFXIV - Metal",
       "subtitles.knowledgeneversleeps": "Graha best boi",
       "subtitles.artificialsun": "Chill touhou vibes from Maritumix",
+      "item.fartsys_additions.torn_from_the_heavens": "FFXIV - Torn From The Heavens",
       "item.fartsys_additions.battle_on_the_big_bridge_v": "Battle on the Big Bridge (FF V)",
+      "item.fartsys_additions.spooky_scary_skeletons_dual_mix.desc": "Fartsy - Spooky Scary Skeletons (Dual Mix)",
       "subtitles.brutejustice": "ACTIVATE TRANSFORMATION MODE... ",
       "item.fartsys_additions.atomic_renegade.desc": "DAGames - Atomic Renegade",
       "item.fartsys_additions.knowledge_never_sleeps.desc": "FFXIV - Knowledge Never Sleeps",
@@ -837,6 +1023,7 @@
       "item.fartsys_additions.out_of_time": "FFXIV - Out of Time",
       "item.fartsys_additions.infinity": "FFXIV - Infinity",
       "item.fartsys_additions.necrofantasia_demetori": "Necrofantasia (Demetori)",
+      "item.fartsys_additions.this_is_halloween": "This Is Halloween",
       "item.fartsys_additions.agent_of_inquiry.desc": "FFXIV - Hildibrand Theme (Agent of Inquiry)",
       "death.attack.selfdesharted": "%1$s self-desharted!",
       "item.fartsys_additions.necrofantasia_demetori.desc": "Demetori - Necrofantasia",
@@ -846,8 +1033,10 @@
       "subtitles.agentofinquiry": "I\u0027m a MANDER MANDER MANDER MANDERVILLE MAN!",
       "item.fartsys_additions.brute_justice_primals": "Metal: Brute Justice Mode (The Primals)",
       "subtitles.necrofantasia": "no yukari I dont want any girl scout cookies",
+      "item.fartsys_additions.under_the_weight.desc": "FFXIV - Under The Weight",
       "subtitles.infinity": "Zurvan go zoom!",
       "death.attack.selfdesharted.player": "%s ded",
+      "death.attack.waffleofassdestruction.player": "%1$s experienced Professor Fartsalot\u0027s Ass.",
       "item.fartsys_additions.one_shart": "One Shart",
       "item.fartsys_additions.bad_apple": "Bad Apple",
       "subtitles.whodoneitmaritumix": "Maritumix touhou vibes",
@@ -857,6 +1046,7 @@
       "item.fartsys_additions.exponential_entropy": "Exponential Entropy",
       "item.fartsys_additions.metal_metal.desc": "FFXIV - Metal",
       "subtitles.deviltrigger": "BANG BANG BANG PULL MY DEVIL TRIGGER!",
+      "item.fartsys_additions.un_owen_was_her": "ZUN - Un Owen Was Her",
       "item.fartsys_additions.flame_of_nuclear": "Flame of Nuclear (Maritumix)",
       "item.fartsys_additions.one_hundred_sharts": "One Hundred Sharts",
       "subtitles.silentregardofstars": "Graha best boi",
@@ -864,6 +1054,8 @@
       "item.fartsys_additions.flame_of_nuclear.desc": "Maritumix - Flame of Nuclear",
       "item.fartsys_additions.good_king_moggle_mog": "Good King Moggle Mog XII",
       "subtitles.whodoneitdemetori": "Perfect Cherry Blossom, who dun it though?",
+      "item.fartsys_additions.worlds_end.desc": "Demetori - World\u0027s End",
+      "item.fartsys_additions.we_interrupt_this_programme_remix.desc": "We Interrupt This Programme (Remix)",
       "item.fartsys_additions.brute_justice.desc": "FFXIV - Metal: Brute Justice Mode",
       "subtitles.nuclearfusiondemetori": "Nucler flame bird girl extreme",
       "item.fartsys_additions.locus.desc": "FFXIV - Locus",
@@ -872,7 +1064,8 @@
       "subtitles.locus": "Ohhhh, its a RAID.... I thought you said RAVE!",
       "item.fartsys_additions.brute_justice": "Metal: Brute Justice Mode",
       "item.fartsys_additions.grandma_destruction.desc": "FFXIV - Grandma (Destruction)",
-      "item.fartsys_additions.out_of_time.desc": "FFXIV - Out of Time"
+      "item.fartsys_additions.out_of_time.desc": "FFXIV - Out of Time",
+      "item.fartsys_additions.rock_and_roll.desc": "Skrillex - Rock N\u0027 Roll (Will Take You to the Mountain)"
     }
   },
   "foldersRoot": {

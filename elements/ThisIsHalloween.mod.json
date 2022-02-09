@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "weinterruptthisprogrammeremix",
+    "name": "This Is Halloween",
+    "description": "The Nightmare Before Christmas - This is Halloween",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:thisishalloween"
+    },
+    "specialInfo": [
+      "The Nightmare Before Christmas Movie Theme"
+    ],
+    "hasGlow": false
+  }
+}

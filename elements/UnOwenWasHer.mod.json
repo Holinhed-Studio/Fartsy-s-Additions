@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "necrofantasiademetori",
+    "name": "ZUN - Un Owen Was Her",
+    "description": "ZUN - Un Owen Was Her?",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:unowenwasher"
+    },
+    "specialInfo": [
+      "Touhou 06 - Flandre Scarlet's Theme"
+    ],
+    "hasGlow": false
+  }
+}

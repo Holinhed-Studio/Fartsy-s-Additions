@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "deviltrigger",
+    "name": "FFXIV - Under The Weight (The Primals)",
+    "description": "FFXIV - Under The Weight (The Primals)",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:undertheweightprimals"
+    },
+    "specialInfo": [
+      "Titan's Theme (The Primals cover)"
+    ],
+    "hasGlow": true
+  }
+}

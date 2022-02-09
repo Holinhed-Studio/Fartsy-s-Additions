@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "cosmicmind",
+    "name": "Demetori - World's End",
+    "description": "Demetori - World's End",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:worldsend"
+    },
+    "specialInfo": [
+      "Touhou 12 - Byakuren Hijiri's Theme (Demetori Cover)"
+    ],
+    "hasGlow": true
+  }
+}

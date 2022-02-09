@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "necrofantasiademetori",
+    "name": "Demetori - Un Owen Was Her",
+    "description": "Demetori - Un Owen Was Her?",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:unowenwasherdemetori"
+    },
+    "specialInfo": [
+      "Touhou 06 - Flandre Scarlet's Theme (Demetori Cover)"
+    ],
+    "hasGlow": true
+  }
+}

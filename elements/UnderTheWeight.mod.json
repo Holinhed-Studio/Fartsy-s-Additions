@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "deviltrigger",
+    "name": "FFXIV - Under The Weight",
+    "description": "FFXIV - Under The Weight",
+    "creativeTab": {
+      "value": "CUSTOM:StinkyThings"
+    },
+    "music": {
+      "value": "CUSTOM:undertheweight"
+    },
+    "specialInfo": [
+      "Titan's Theme"
+    ],
+    "hasGlow": false
+  }
+}
